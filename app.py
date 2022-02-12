@@ -26,6 +26,7 @@ def predict():
         if(Fuel_Type_Petrol=='Petrol'):
                 Fuel_Type_Petrol=1
                 Fuel_Type_Diesel=0
+        
         else:
             Fuel_Type_Petrol=0
             Fuel_Type_Diesel=1
